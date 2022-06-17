@@ -14,7 +14,7 @@ The original, React-only app followed the tutorial to the letter, creating the s
 
 ### Step 2: Migrate to TypeScript
 
-Later on in the course, I got very comfortable with React and JS that I started integrating TypeScript. For more info, see the [Add TS dependencies](fa8a43832121cd656b996b01d220d8c02536bd0f) commit.
+Later on in the course, I got very comfortable with React and JS that I started integrating TypeScript. For more info, see the [Add TS dependencies](https://github.com/ben-laird/my-first-react-app/commit/fa8a43832121cd656b996b01d220d8c02536bd0f) commit.
 
 ## Create React App Standard Readme
 
