@@ -1,3 +1,5 @@
+import * as React from "react";
+
 const MyApp = () => {
   const buttonText = { text: "click me!" };
 
